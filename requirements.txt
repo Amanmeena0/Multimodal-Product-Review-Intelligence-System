@@ -1,0 +1,6 @@
+pandas
+bs4
+requests
+
+pip install nltk scikit-learn pandas numpy
+pip install requests beautifulsoup4 pandas pyarrow lxml

@@ -5,3 +5,4 @@ requests
 pip install nltk scikit-learn pandas numpy
 pip install requests beautifulsoup4 pandas pyarrow lxml
 pip install seaborn matplotlib nltk pandas numpy
+pip install opencv-python numpy pandas matplotlib requests
